@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw00wsjH6X6wf-Q8hiU9hdu_&ust=1695135875066000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiUzq-3tIEDFQAAAAAdAAAAABAE)
+![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw00wsjH6X6wf-Q8hiU9hdu_&ust=1695135875066000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiUzq-3tIEDFQAAAAAdAAAAABAE](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg))
 
 ### Hi there, I'm Amaan Alam 👋
 
