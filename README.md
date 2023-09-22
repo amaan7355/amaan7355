@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hello there, I'm Adnan! 👋</h1>
+<h1 align="center">Hello there, I'm Amaan Alam! 👋</h1>
 
 <!-- LinkedIn and Email -->
 <p align="center">
