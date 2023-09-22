@@ -8,10 +8,10 @@
 
 <!-- LinkedIn and Email -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-adnan-852037263/">
+  <a href="https://www.linkedin.com/in/amaan-alam-86b821241">
     <img src="https://img.shields.io/badge/Connect with me on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:cs0068adnan@gmail.com">
+  <a href="mailto:alamamaan334@gmail.com">
     <img src="https://img.shields.io/badge/Reach out via Email-critical?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
