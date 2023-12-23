@@ -18,13 +18,13 @@ I'm a passionate software developer with expertise in building modern web applic
 
 #### Connect with Me:
 
-- 🎮 Email: [alamamaan334@gmail.com](mailto:alamamaan334@gmail.com)
-- 🌐 Portfolio: [Amaan Alam](https://amaan7355.github.io/Portfolio-New-edited/)
+- 📧 Email: [alamamaan334@gmail.com](mailto:alamamaan334@gmail.com)
+- 🌐 LinkedIn: [Amaan Alam](https://www.linkedin.com/in/amaan-alam-86b821241)
 
 #### Projects:
 
-- 📧 EsportArena: [EsportArena](https://esportarena.onrender.com/)
-- 🌐 LinkedIn: [Amaan Alam](https://www.linkedin.com/in/amaan-alam-86b821241)
+- 🎮 EsportArena: [EsportArena](https://esportarena.onrender.com/)
+- 🌐 Portfolio: [Amaan Alam](https://amaan7355.github.io/Portfolio-New-edited/)
 
 Feel free to explore my repositories to see some of the exciting projects I've been working on. Don't hesitate to reach out if you'd like to collaborate or discuss anything related to web development.
 
