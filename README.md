@@ -23,7 +23,7 @@ I'm a passionate software developer with expertise in building modern web applic
 
 #### Projects:
 
-- 🎮 EsportArena: [EsportArena](https://esportarena.onrender.com/)
+- 🎮 EsportArena: ![EsportArena](https://esportarena.onrender.com/)
 - 🚀 Blog App: [BlogApp](https://blog-app-orcin-seven.vercel.app/)
 - 🌐 Portfolio: [Amaan Alam](https://amaan7355.github.io/Portfolio-New-edited/)
 
