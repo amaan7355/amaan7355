@@ -1,11 +1,11 @@
 <!-- Banner Image -->
-<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Developer Economy" style="width: 100%; height: auto; max-height: 200px;" />
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Developer Economy" style="width: 100%; max-height: 150px; object-fit: cover;"/>
 
 ---
 
 ### Hi there, I'm Amaan Alam! 👋
 
-I'm a passionate software developer focused on creating innovative and scalable solutions using modern web technologies. If you're interested in working together, or just chatting about coding, feel free to connect with me!
+I'm a passionate software developer focused on creating innovative and scalable solutions using modern web technologies. If you're interested in working together or just chatting about coding, feel free to connect with me!
 
 ---
 
