@@ -1,5 +1,5 @@
-<!-- Banner Image -->
-<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Developer Economy" style="width: 100%; max-height: 150px; object-fit: cover;"/>
+<!-- Banner Image 
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Developer Economy" style="width: 100%; max-height: 150px; object-fit: cover;"/>-->
 
 ---
 
