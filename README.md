@@ -35,7 +35,7 @@ I'm a passionate software developer focused on creating innovative and scalable 
 - 🚀 **[Blog App](https://blog-app-orcin-seven.vercel.app/)**  
   A full-fledged blog application where users can create, like, and comment on posts.
 
-- 🎮 **[EsportArena](https://esportarena.onrender.com/)**  
+- 🎮 **[EsportArena](https://esports-arena.vercel.app/)**  
   An exciting platform for esports enthusiasts to connect, play, and compete.
 
 - 🌐 **[Portfolio](https://amaan7355.github.io/Portfolio-New-edited/)**  
