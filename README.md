@@ -44,7 +44,7 @@ I'm a passionate software developer focused on creating innovative and scalable 
 - 🌐 **[Portfolio](https://amaan7355.github.io/Portfolio-New-edited/)**  
   Explore my portfolio, showcasing all of my best work in web and mobile development.
 
-- 💻 **[Resume](https://drive.google.com/file/d/1OcDjgAYTqzJRZziwhajm4_oRJd8kCKtz/view?usp=drivesdk)**  
+- 💻 **[Resume](https://drive.google.com/file/d/1Y6eglAJHENH0DyvOjE_-fLVd8yb3NIg2/view?usp=drivesdk)**  
   Have a look at my detailed resume.
 
 ---
