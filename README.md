@@ -32,6 +32,9 @@ I'm a passionate software developer focused on creating innovative and scalable 
 
 ### 🌟 Projects:
 
+- 🎮 **[Esports Arena Mobile App](https://drive.google.com/file/d/1Y4iFgR8jx9srX8nJUD6gGG8-bFRmgo0F/view?usp=drivesdk)**  
+  An engaging mobile application for esports enthusiasts, allowing users to add, manage, and participate in tournaments, with features like image uploads and a date picker for tournament details.
+
 - 🚀 **[Blog App](https://blog-app-orcin-seven.vercel.app/)**  
   A full-fledged blog application where users can create, like, and comment on posts.
 
