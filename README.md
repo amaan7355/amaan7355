@@ -36,7 +36,7 @@ I'm a passionate software developer focused on creating innovative and scalable 
 
 ### 🌟 Projects:
 
-- 🧠 **[NLP-VERSE](https://www.nlp-verse.vercel.app/)**  
+- 🧠 **[NLP-VERSE](https://nlp-verse.vercel.app/)**  
   A chatbot web application using `node-nlp`, MERN stack, and `Next.js`. Supports training on custom Q&A pairs, understanding user input variations ("hi", "hello", etc.), and real-time interaction using `Socket.IO`. Full JWT-based authentication with email verification.
 
 - 💬 **Convo (Chat Mobile App)**  
