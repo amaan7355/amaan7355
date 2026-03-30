@@ -51,7 +51,7 @@ I'm a passionate software developer focused on creating innovative and scalable 
 - 🎮 **[EsportArena](https://esports-arena.vercel.app/)**  
   A web platform for connecting gamers, organizing tournaments, and sharing esports experiences.
 
-- 🌐 **[Portfolio](https://amaan7355.github.io/Portfolio-New-edited/)**  
+- 🌐 **[Portfolio](https://amaan-folio.vercel.app/)**  
   Explore my portfolio showcasing my best projects in web and mobile development.
 
 - 💻 **[Resume](https://drive.google.com/file/d/1lvcvLejhdEviVTDatna-YZFRkyuwcy2q/view?usp=drivesdk)**  
