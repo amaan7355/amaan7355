@@ -54,7 +54,7 @@ I'm a passionate software developer focused on creating innovative and scalable 
 - 🌐 **[Portfolio](https://amaan-folio.vercel.app/)**  
   Explore my portfolio showcasing my best projects in web and mobile development.
 
-- 💻 **[Resume](https://drive.google.com/file/d/1lvcvLejhdEviVTDatna-YZFRkyuwcy2q/view?usp=drivesdk)**  
+- 💻 **[Resume](https://drive.google.com/file/d/1ealENbhsUPDm6pkaZ7rJLaWZM_QROhPm/view?usp=drivesdk)**  
   Have a look at my detailed resume.
 
 ---
